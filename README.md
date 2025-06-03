@@ -1,8 +1,18 @@
 <div align="center"> 
-
-# 💫 About Me:
+  
+## 💫 About Me:
 </div>
-Hi 👋! My name is Vedant Vyas and I'm a Full Stack Developer from India<br>🔭 I’m currently working on exciting tech projects and constantly improving my development skills.<br>🌱 I’m currently learning Computer Science with a focus on Artificial Intelligence and Machine Learning (CSE-AIML).<br>👯 I’m looking to collaborate on innovative AI/ML projects, web development, or anything that sparks creativity!<br>💬 Ask me about building smart web apps, getting started with AI/ML, or tips on student tech projects.<br>📫 How to reach me: https://vedant417.github.io/Vedant-Vyas-Portfolio/<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I once debugged a stubborn bug at 3AM and ended up inventing a whole new feature by accident!
+<p>
+  <img align="right" src="https://github.com/user-attachments/assets/f48458dd-a624-49ce-bcd7-7fe30cc5cafd" width="190" />
+  Hi 👋! My name is Vedant Vyas and I'm a Full Stack Developer from India.<br>
+  🔭 I’m currently working on exciting tech projects and constantly improving my development skills.<br>
+  🌱 I’m currently learning Computer Science with a focus on Artificial Intelligence and Machine Learning (CSE-AIML).<br>
+  👯 I’m looking to collaborate on innovative AI/ML projects, web development, or anything that sparks creativity!<br>
+  💬 Ask me about building smart web apps, getting started with AI/ML, or tips on student tech projects.<br>
+  📫 How to reach me: <a href="https://vedant417.github.io/Vedant-Vyas-Portfolio/">My Portfolio</a><br>
+  😄 Pronouns: He/Him<br>
+  ⚡ Fun fact: I once debugged a stubborn bug at 3AM and ended up inventing a whole new feature by accident!
+</p>
 
 
 <div align="center"> 
@@ -50,5 +60,7 @@ Hi 👋! My name is Vedant Vyas and I'm a Full Stack Developer from India<br>�
 [![](https://visitcount.itsvg.in/api?id=Vedant417&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
 
-
+<div align="center"> 
+  
 ![snake gif](https://github.com/Vedant417/Vedant417/blob/output/github-snake-dark.svg)
+</div>
