@@ -3,7 +3,7 @@
 ## 💫 About Me:
 </div>
 <p>
-  <img align="right" src="https://github.com/user-attachments/assets/f48458dd-a624-49ce-bcd7-7fe30cc5cafd" width="190" />
+  <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25zaHFzbWZ4djlmZXlvZWo2a21jeGxuNG8wMG5tZzF0ZTFpMTVhcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11ykUODgXjAXZu/giphy.gif" width="190" />
   Hi 👋! My name is Vedant Vyas and I'm a Full Stack Developer from India.<br>
   🔭 I’m currently working on exciting tech projects and constantly improving 
      my development skills.<br>
