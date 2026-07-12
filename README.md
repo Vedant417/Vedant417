@@ -12,7 +12,7 @@
   👯 I’m looking to collaborate on innovative AI/ML projects, web development, or anything that sparks 
       creativity!<br>
   💬 Ask me about building smart web apps, getting started with AI/ML, or tips on student tech projects.<br>
-  📫 How to reach me: <a href="https://vedant417.github.io/Vedant-Vyas-Portfolio/">My Portfolio</a><br>
+  📫 How to reach me: <a href="https://vedant-vyas-portfolio-iota.vercel.app/">My Portfolio</a><br>
   😄 Pronouns: He/Him<br>
   ⚡ Fun fact: I once debugged a stubborn bug at 3AM and ended up inventing a whole new feature by accident!
 </p>
