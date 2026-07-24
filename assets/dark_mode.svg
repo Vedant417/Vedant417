@@ -22,6 +22,46 @@
     rx="18"
     fill="#161b22"/>
 
+<!-- Left Panel (ASCII Portrait) -->
+<rect
+    x="30"
+    y="90"
+    width="420"
+    height="570"
+    rx="12"
+    fill="#0d1117"
+    stroke="#30363d"/>
+
+<text
+    x="240"
+    y="380"
+    text-anchor="middle"
+    fill="#8b949e"
+    font-family="Consolas, monospace"
+    font-size="20">
+    ASCII Portrait
+</text>
+
+<!-- Right Panel (Information) -->
+<rect
+    x="470"
+    y="90"
+    width="700"
+    height="570"
+    rx="12"
+    fill="#0d1117"
+    stroke="#30363d"/>
+
+<text
+    x="820"
+    y="380"
+    text-anchor="middle"
+    fill="#8b949e"
+    font-family="Consolas, monospace"
+    font-size="20">
+    Terminal Information
+</text>
+
 <!-- Fix bottom corners -->
 <rect
     x="5"
