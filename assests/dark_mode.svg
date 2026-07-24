@@ -1,1 +1,93 @@
+<svg width="800" height="420" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="420" rx="15" fill="#0d1117" stroke="#30363d"/>
 
+  <text x="40" y="50"
+        fill="#58a6ff"
+        font-family="Consolas, monospace"
+        font-size="28">
+    Vedant Vyas
+  </text>
+
+  <text x="40" y="90"
+        fill="#8b949e"
+        font-family="Consolas, monospace"
+        font-size="18">
+    Full Stack Developer • AI/ML Engineer
+  </text>
+
+  <line x1="40" y1="110" x2="760" y2="110"
+        stroke="#30363d"/>
+
+  <text x="40" y="150"
+        fill="#f0883e"
+        font-family="Consolas, monospace"
+        font-size="18">
+    Role:
+  </text>
+
+  <text x="220" y="150"
+        fill="#c9d1d9"
+        font-family="Consolas, monospace"
+        font-size="18">
+    Full Stack Developer
+  </text>
+
+  <text x="40" y="185"
+        fill="#f0883e"
+        font-family="Consolas, monospace"
+        font-size="18">
+    University:
+  </text>
+
+  <text x="220" y="185"
+        fill="#c9d1d9"
+        font-family="Consolas, monospace"
+        font-size="18">
+    VIT Bhopal
+  </text>
+
+  <text x="40" y="220"
+        fill="#f0883e"
+        font-family="Consolas, monospace"
+        font-size="18">
+    Company:
+  </text>
+
+  <text x="220" y="220"
+        fill="#c9d1d9"
+        font-family="Consolas, monospace"
+        font-size="18">
+    Entertainment Technologists
+  </text>
+
+  <text x="40" y="255"
+        fill="#f0883e"
+        font-family="Consolas, monospace"
+        font-size="18">
+    Focus:
+  </text>
+
+  <text x="220" y="255"
+        fill="#c9d1d9"
+        font-family="Consolas, monospace"
+        font-size="18">
+    AI • ML • Full Stack
+  </text>
+
+  <line x1="40" y1="285" x2="760" y2="285"
+        stroke="#30363d"/>
+
+  <text x="40" y="325"
+        fill="#58a6ff"
+        font-family="Consolas, monospace"
+        font-size="18">
+    Python • C++ • React • FastAPI • MongoDB
+  </text>
+
+  <text x="40" y="375"
+        fill="#8b949e"
+        font-family="Consolas, monospace"
+        font-size="16">
+    Dynamic GitHub Stats Coming Soon...
+  </text>
+</svg>
