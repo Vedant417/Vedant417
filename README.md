@@ -1,3 +1,9 @@
-Hi 👋 I'm Vedant Vyas
+<div align="center">
 
-🚧 Building an awesome GitHub profile...
+# Hi 👋, I'm Vedant Vyas
+
+### Full Stack Developer • AI/ML Engineer • Problem Solver
+
+</div>
+
+---
