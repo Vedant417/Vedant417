@@ -41,15 +41,8 @@
         stroke="#30363d"/>
 
   <!-- ASCII Group -->
-<g id="ascii-face">
-  <text
-    x="40"
-    y="120"
-    fill="#ffffff"
-    font-family="Arial"
-    font-size="24">
-HELLO
-</text>
+<g id="ascii-face" transform="translate(40,110)">
+    <!-- ASCII SVG will go here -->
 </g>
   <!-- RIGHT PANEL -->
   <rect x="470"
