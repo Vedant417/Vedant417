@@ -1,123 +1,21 @@
-<svg width="1200" height="700" viewBox="0 0 1200 700" xmlns="http://www.w3.org/2000/svg">
+# Hi 👋, I'm Vedant Vyas
 
-  <!-- Background -->
-  <rect x="5" y="5" width="1190" height="690" rx="18"
-        fill="#0d1117"
-        stroke="#30363d"
-        stroke-width="2"/>
+Typing Animation
 
-  <!-- Terminal Header -->
-  <rect x="5" y="5" width="1190" height="55" rx="18" fill="#161b22"/>
-  <rect x="5" y="42" width="1190" height="18" fill="#161b22"/>
+<table>
+<tr>
 
-  <!-- Buttons -->
-  <circle cx="35" cy="32" r="7" fill="#ff5f56"/>
-  <circle cx="60" cy="32" r="7" fill="#ffbd2e"/>
-  <circle cx="85" cy="32" r="7" fill="#27c93f"/>
+<td width="60%" align="left">
 
-  <!-- Title -->
-  <text x="600"
-        y="37"
-        text-anchor="middle"
-        fill="#8b949e"
-        font-family="Consolas, monospace"
-        font-size="18">
-        vedant@github: ~
-  </text>
+```text
+<img src="assets/dark_mode.svg" width="100%">
+```
 
-  <line x1="20"
-        y1="60"
-        x2="1180"
-        y2="60"
-        stroke="#30363d"/>
+</td>
 
-  <!-- LEFT PANEL -->
-  <rect x="30"
-        y="90"
-        width="420"
-        height="570"
-        rx="12"
-        fill="#0d1117"
-        stroke="#30363d"/>
+</tr>
+</table>
 
-  <!-- ASCII Group -->
-<g id="ascii-face" transform="translate(40,110)">
-    <!-- ASCII SVG will go here -->
-</g>
-  <!-- RIGHT PANEL -->
-  <rect x="470"
-        y="90"
-        width="700"
-        height="570"
-        rx="12"
-        fill="#0d1117"
-        stroke="#30363d"/>
+---
 
-  <!-- Terminal Content -->
-  <text x="500"
-        y="125"
-        fill="#58a6ff"
-        font-family="Consolas, monospace"
-        font-size="18">$ whoami</text>
-
-  <text x="520"
-        y="155"
-        fill="#c9d1d9"
-        font-family="Consolas, monospace"
-        font-size="17">Vedant Vyas</text>
-
-  <text x="500"
-        y="205"
-        fill="#58a6ff"
-        font-family="Consolas, monospace"
-        font-size="18">$ cat profile.txt</text>
-
-  <text x="520"
-        y="235"
-        fill="#8b949e"
-        font-family="Consolas, monospace"
-        font-size="16">Role       : Full Stack Developer</text>
-
-  <text x="520"
-        y="260"
-        fill="#8b949e"
-        font-family="Consolas, monospace"
-        font-size="16">University : VIT Bhopal</text>
-
-  <text x="520"
-        y="285"
-        fill="#8b949e"
-        font-family="Consolas, monospace"
-        font-size="16">Company    : Entertainment Technologists</text>
-
-  <text x="520"
-        y="310"
-        fill="#8b949e"
-        font-family="Consolas, monospace"
-        font-size="16">Focus      : AI • ML • Full Stack</text>
-
-  <text x="500"
-        y="365"
-        fill="#58a6ff"
-        font-family="Consolas, monospace"
-        font-size="18">$ ls skills/</text>
-
-  <text x="520"
-        y="395"
-        fill="#c9d1d9"
-        font-family="Consolas, monospace"
-        font-size="16">Python  •  C++  •  React  •  FastAPI</text>
-
-  <text x="520"
-        y="420"
-        fill="#c9d1d9"
-        font-family="Consolas, monospace"
-        font-size="16">Node.js  •  MongoDB  •  AWS</text>
-
-  <text x="500"
-        y="485"
-        fill="#58a6ff"
-        font-family="Consolas, monospace"
-        font-size="18">$ █</text>
-
-</svg>
+# 💫 About Me
