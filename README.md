@@ -18,7 +18,7 @@
 <td width="60%" align="left">
 
 ```text
-Loading Terminal...
+<img src="assets/dark_mode.svg" width="100%">
 ```
 
 </td>
