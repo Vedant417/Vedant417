@@ -43,16 +43,13 @@
   <!-- ASCII Group -->
 <g id="ascii-face">
   <text
-      x="40"
-      y="120"
-      fill="#ffffff"
-      font-family="Consolas, monospace"
-      font-size="12"
-      xml:space="preserve">
-██████
-██  ██
-██████
-  </text>
+    x="40"
+    y="120"
+    fill="#ffffff"
+    font-family="Arial"
+    font-size="24">
+HELLO
+</text>
 </g>
   <!-- RIGHT PANEL -->
   <rect x="470"
