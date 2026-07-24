@@ -11,7 +11,7 @@
 
 <td width="40%" align="center">
 
-🚧 Profile Image Coming Soon
+<img src="./assets/profile.jpg" width="240">
 
 </td>
 
