@@ -9,10 +9,18 @@
 <table>
 <tr>
 
-<td width="40%">
+<td width="40%" align="center">
+
+🚧 Profile Image Coming Soon
+
 </td>
 
-<td width="60%">
+<td width="60%" align="left">
+
+```text
+Loading Terminal...
+```
+
 </td>
 
 </tr>
