@@ -40,14 +40,22 @@
         fill="#0d1117"
         stroke="#30363d"/>
 
-  <text x="240"
-        y="380"
-        text-anchor="middle"
-        fill="#8b949e"
-        font-family="Consolas, monospace"
-        font-size="22">
-        ASCII Portrait
-  </text>
+  <!-- ASCII Group -->
+<g id="ascii-face">
+
+    <text
+        x="50"
+        y="120"
+        fill="#c9d1d9"
+        font-family="'Cascadia Code','JetBrains Mono','Consolas',monospace"
+        font-size="6.8"
+        xml:space="preserve">
+
+ASCII WILL GO HERE
+
+    </text>
+
+</g>
 
   <!-- RIGHT PANEL -->
   <rect x="470"
