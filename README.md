@@ -17,7 +17,7 @@
 
 <td width="60%">
 
-<img src="assets/dark_mode.svg" width="100%">
+<img src="./assets/dark_mode.svg" width="100%">
 
 </td>
 
