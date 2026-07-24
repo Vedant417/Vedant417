@@ -8,19 +8,19 @@
 
 <table>
 <tr>
-<td width="40%" align="center">
 
-<!-- ASCII Portrait / SVG will go here -->
-
+<td width="40%">
 </td>
 
 <td width="60%">
-
-<!-- Terminal Card will go here -->
-
 </td>
+
 </tr>
 </table>
+
+---
+
+# 💫 About Me
 
 </div>
 
