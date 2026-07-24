@@ -43,17 +43,13 @@
   <!-- ASCII Group -->
 <g id="ascii-face">
   <text
-      x="50"
-      y="120"
-      fill="#c9d1d9"
-      font-family="'Cascadia Code','JetBrains Mono','Consolas',monospace"
-      font-size="6.8"
-      xml:space="preserve">
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
+    x="35"
+    y="105"
+    fill="#c9d1d9"
+    font-family="Consolas, monospace"
+    font-size="3.2"
+    lengthAdjust="spacingAndGlyphs"
+    xml:space="preserve">                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
       ......................................                                                        
       .........................................................                                     
       ...................................................................................           
