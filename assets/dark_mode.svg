@@ -76,7 +76,7 @@
 <circle cx="85" cy="32" r="7" fill="#27c93f"/>
 
 <!-- Terminal Title -->
-<text
+<!-- <text
     x="600"
     y="38"
     text-anchor="middle"
@@ -91,7 +91,7 @@
         font-family="Consolas, monospace"
         font-size="18">
     Full Stack Developer • AI/ML Engineer
-  </text>
+  </text> -->
 
   <line
     x1="20"
@@ -101,7 +101,7 @@
     stroke="#30363d"
     stroke-width="1"/>
 
-  <text x="40" y="150"
+  <!-- <text x="40" y="150"
         fill="#f0883e"
         font-family="Consolas, monospace"
         font-size="18">
@@ -148,29 +148,29 @@
         font-family="Consolas, monospace"
         font-size="18">
     Focus:
-  </text>
+  </text> -->
 
-  <text x="220" y="255"
+  <!-- <text x="220" y="255"
         fill="#c9d1d9"
         font-family="Consolas, monospace"
         font-size="18">
     AI • ML • Full Stack
-  </text>
+  </text> -->
 
   <line x1="40" y1="285" x2="760" y2="285"
         stroke="#30363d"/>
 
-  <text x="40" y="325"
+  <!-- <text x="40" y="325"
         fill="#58a6ff"
         font-family="Consolas, monospace"
         font-size="18">
     Python • C++ • React • FastAPI • MongoDB
-  </text>
+  </text> -->
 
-  <text x="40" y="375"
+  <!-- <text x="40" y="375"
         fill="#8b949e"
         font-family="Consolas, monospace"
         font-size="16">
     Dynamic GitHub Stats Coming Soon...
-  </text>
+  </text> -->
 </svg>
