@@ -1,5 +1,17 @@
-<svg width="800" height="420" xmlns="http://www.w3.org/2000/svg">
-  <rect width="800" height="420" rx="15" fill="#0d1117" stroke="#30363d"/>
+<svg
+    width="1200"
+    height="700"
+    viewBox="0 0 1200 700"
+    xmlns="http://www.w3.org/2000/svg">
+  <rect
+    x="5"
+    y="5"
+    width="1190"
+    height="690"
+    rx="18"
+    fill="#0d1117"
+    stroke="#30363d"
+    stroke-width="2"/>
 
   <text x="40" y="50"
         fill="#58a6ff"
