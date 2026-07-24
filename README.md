@@ -19,7 +19,7 @@
 
 <td width="65%">
 
-<img src="https://github.com/Vedant417/Vedant417/blob/main/assets/dark_mode.svg?raw=true" width="100%">
+<img src="https://raw.githubusercontent.com/Vedant417/Vedant417/main/assets/dark_mode.svg" width="100%">
 
 </td>
 
