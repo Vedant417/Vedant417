@@ -19,7 +19,7 @@
 
 <td width="65%">
 
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="150">
+<img src="https://github.com/Vedant417/Vedant417/blob/main/assets/dark_mode.svg?raw=true" width="100%">
 
 </td>
 
