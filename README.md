@@ -15,11 +15,9 @@
 
 </td>
 
-<td width="60%" align="left">
+<td width="60%">
 
-```text
-Loading Terminal...
-```
+<img src="assets/dark_mode.svg" width="100%">
 
 </td>
 
