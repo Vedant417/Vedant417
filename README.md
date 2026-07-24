@@ -8,24 +8,6 @@
 
 </div>
 
-<table>
-<tr>
-
-<td width="35%" align="center">
-
-🚧 Profile Image Coming Soon
-
-</td>
-
-<td width="65%">
-
-<img src="https://raw.githubusercontent.com/Vedant417/Vedant417/main/assets/dark_mode.svg" width="100%">
-
-</td>
-
-</tr>
-</table>
-
 ---
 
 # 💫 About Me
